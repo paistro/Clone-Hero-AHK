@@ -3,6 +3,8 @@ How to use:
 
 F3: On / OFF
 
+Any Color + LCtrl: Tap with 15 ms interval
+
 Space: Strum with 150ms interval
 
 <img src="Images/alt.PNG" width=300 height=300>
