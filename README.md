@@ -3,7 +3,7 @@ How to use:
 
 F3: On / OFF
 
-Any Color + LCtrl: Tap with 15 ms interval
+LCtrl + Any Color: Tap with 15 ms interval
 
 Space: Strum with 150ms interval
 
