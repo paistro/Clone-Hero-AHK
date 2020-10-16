@@ -1,7 +1,7 @@
 # Clone-Hero-AHK
 How to use:
 
-F3: On / OFF
+F3: On / Off
 
 LCtrl + Any Color: Tap with 15ms interval
 
